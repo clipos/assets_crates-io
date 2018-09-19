@@ -1,0 +1,1 @@
+{"name":"ansi_term","vers":"0.11.0","deps":[{"name":"winapi","req":"^0.3.4","features":["errhandlingapi","consoleapi","processenv"],"optional":false,"default_features":true,"target":"cfg(target_os = \"windows\")","kind":"normal"}],"cksum":"ee49baf6cb617b853aa8d93bf420db2383fab46d314482ca2803b40d5fde979b","features":{},"yanked":false,"links":null}

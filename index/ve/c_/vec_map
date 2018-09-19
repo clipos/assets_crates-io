@@ -1,0 +1,1 @@
+{"name":"vec_map","vers":"0.8.1","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"05c78687fb1a80548ae3250346c3db86a80a7cdd77bda190189f2d0a0987c81a","features":{"eders":["serde"]},"yanked":false,"links":null}

@@ -1,0 +1,2 @@
+# Rust crates
+*.crate                   filter=lfs diff=lfs merge=lfs -text
